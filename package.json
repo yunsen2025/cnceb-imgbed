@@ -1,6 +1,6 @@
 {
   "name": "cnceb-imgbed",
-  "version": "2.0.1",
+    "version": "2.0.6",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
